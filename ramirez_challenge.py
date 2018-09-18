@@ -10,3 +10,15 @@ if (a**2 + b**2 == c**2):
 
 else:
     print("this is NOT a right triangle")
+    
+if (a**2 + b**2 == c**2):
+    print("this is an obtuse triangle")
+
+else:
+    print("this is NOT an obtuse triangle")
+
+if (a**2 + b**2 == c**2):
+    print("this is an acute triangle")
+    
+else:
+    print("this is NOT an acute triangle")
